@@ -1,0 +1,5 @@
+{
+  "name": "Liga UAS Colombia",
+  "description": "An interactive quiz application to help aspiring drone pilots in Colombia practice for their official certification exam from the Aeronáutica Civil. Features randomly generated quizzes from a large question bank, instant scoring, and AI-powered explanations for incorrect answers.",
+  "requestFramePermissions": []
+}
